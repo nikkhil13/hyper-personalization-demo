@@ -1,0 +1,50 @@
+I_Target_var,Target_var,age,amount,car,car_loan,cnt_txn,Target,default,education,job,job_gp,lastcon_daysago,lastcon_secs,marital,mortgage,num_active_products,own_home,pref_channel,recent_txn_cnt,tenure_yrs,mobile_number,custID,mobile_number_STND,campaign_ID,_dmIndex_,_PartInd_
+0,0,30,9537,unknown,0,19,no,no,professional.course,student,Medium Earner,21,132,single,0,4,unknown,email,7,3 to 6,+91 725 3078205,60235,+91 725 3 078205,4,12000439,0
+0,0,41,986,no,0,21,no,no,basic.4y,retired,Low Earner,31,278,single,187000,5,yes,email,5,3 to 6,+91 5442430683,60236,+91 5442 430683,1,12000440,1
+0,0,30,5326,yes,41000,18,no,no,basic.9y,self-employed,Medium Earner,33,5,single,0,3,no,email,4,3 to 6,079-28447296,60237,79 28447296,1,12000441,1
+0,1,57,10437,unknown,0,22,yes,no,university.degree,admin.,High Earner,31,229,married,0,5,unknown,email,7,6 to 9,089-44120586,60238,89 44120586,2,12000442,1
+0,1,22,10795,no,0,20,yes,no,professional.course,self-employed,Medium Earner,60,218,single,362000,4,yes,mobile,5,0-3,+91 3979699993,60239,+91 39 79699993,1,12000443,0
+1,0,64,1293,no,0,12,no,no,basic.9y,unemployed,Low Earner,16,604,divorced,289000,2,yes,email,4,6 to 9,+91 7839863781,60240,+91 78 39863781,2,12000444,1
+0,0,70,2043,no,0,22,no,no,basic.4y,retired,Low Earner,22,122,married,0,3,no,email,7,>9,+91 6739844680,60241,+91 67 39844680,1,12000445,0
+0,1,61,1775,no,0,21,yes,no,basic.4y,retired,Low Earner,4,194,married,0,2,no,email,5,6 to 9,04887 744504,60242,48 87 744504,1,12000446,1
+0,0,60,1917,unknown,0,18,no,no,basic.4y,retired,Low Earner,20,272,married,0,5,unknown,email,1,6 to 9,8772515024,60243,877 2515024,1,12000447,1
+0,0,59,8627,no,0,18,no,no,university.degree,services,Medium Earner,17,162,married,479000,3,yes,directmail,3,6 to 9,+91 019 5782905,60244,+91 19 57 82905,1,12000448,2
+0,1,18,7767,no,0,21,yes,yes,university.degree,services,Medium Earner,56,252,single,292000,2,yes,email,4,3 to 6,01446 111504,60245,144 6 111504,2,12000449,1
+0,0,22,933,yes,23000,14,no,no,university.degree,unemployed,Low Earner,27,34,single,0,3,no,email,5,0-3,+91 5715968447,60246,+91 571 5968447,2,12000450,1
+0,1,66,953,unknown,0,15,yes,no,basic.4y,retired,Low Earner,35,216,married,0,5,unknown,directmail,2,6 to 9,+91 198 6383388,60247,+91 19 8 6383388,1,12000451,1
+0,0,52,6853,no,0,18,no,no,university.degree,technician,Medium Earner,9,6,married,214000,3,yes,email,6,6 to 9,1434727410,60248,1434 727410,1,12000452,1
+0,1,61,36592,no,0,24,yes,no,professional.course,blue-collar,High Earner,8,246,married,266000,4,yes,email,7,6 to 9,+91 4642578047,60249,+91 46 42578047,2,12000453,2
+0,0,34,8904,no,0,17,no,no,professional.course,student,Medium Earner,55,6,single,390000,2,yes,mobile,8,3 to 6,1717361311,60250,171 7361311,1,12000454,1
+0,0,84,761,no,0,13,no,no,basic.4y,retired,Low Earner,35,106,divorced,352000,2,yes,email,3,>9,+91 192 1868936,60251,+91 192 1 868936,4,12000455,1
+0,0,67,2059,no,0,18,no,no,basic.4y,retired,Low Earner,56,218,divorced,387000,2,yes,mobile,5,6 to 9,5685804948,60252,56 85804948,1,12000456,1
+0,1,17,3054,yes,94000,21,yes,no,high.school,services,Medium Earner,39,178,divorced,165000,4,yes,email,2,6 to 9,2933567857,60253,2933 567857,4,12000457,0
+0,0,15,2369,no,0,18,no,no,high.school,student,Medium Earner,59,7,married,361000,4,yes,directmail,3,0-3,+91 376 2950794,60254,+91 376 2950794,1,12000458,1
+0,0,61,948,no,0,24,no,no,basic.4y,housewife,Low Earner,15,238,married,264000,5,yes,mobile,4,6 to 9,04602 475468,60255,46 02 475468,2,12000459,1
+0,0,45,5193,no,0,20,no,yes,unknown,student,Medium Earner,47,316,single,500000,2,yes,directmail,3,6 to 9,+91 2632252810,60256,+91 2632 252810,2,12000460,1
+1,1,80,1129,no,0,14,yes,no,professional.course,retired,Low Earner,4,411,married,373000,4,yes,directmail,3,>9,+91 548 0003805,60257,+91 548 0003805,1,12000461,2
+0,0,63,2035,no,0,20,no,no,professional.course,unknown,Low Earner,58,235,married,0,3,no,directmail,8,6 to 9,026-36229405,60258,26 36229405,1,12000462,1
+0,1,37,2423,no,0,22,yes,yes,university.degree,housewife,Low Earner,35,178,married,0,2,no,directmail,8,3 to 6,028-19005897,60259,28 19005897,2,12000463,1
+0,0,34,27479,unknown,0,17,no,no,university.degree,admin.,High Earner,26,256,divorced,0,2,unknown,email,6,3 to 6,07720 507369,60260,7720 507369,2,12000464,1
+0,0,16,3136,no,0,19,no,no,high.school,unemployed,Low Earner,37,168,single,233000,4,yes,email,6,3 to 6,+91 607 4130448,60261,+91 60 7 4130448,2,12000465,1
+0,0,46,38301,unknown,0,23,no,no,university.degree,management,High Earner,2,83,married,0,4,unknown,directmail,7,6 to 9,+91 6475787556,60262,+91 6475 787556,2,12000466,1
+0,0,30,11096,no,0,22,no,no,professional.course,blue-collar,High Earner,59,111,single,158000,4,yes,mobile,9,3 to 6,079-15607147,60263,79 15607147,2,12000467,1
+0,1,59,29446,no,0,15,yes,no,high.school,admin.,High Earner,37,357,divorced,0,2,no,email,3,6 to 9,2707726207,60264,27 07726207,3,12000468,1
+0,1,34,6193,no,0,14,yes,no,unknown,technician,Medium Earner,25,206,married,0,4,no,email,4,3 to 6,05546 559368,60265,5546 559368,1,12000469,0
+1,1,60,34293,no,0,19,yes,no,unknown,admin.,High Earner,6,787,married,0,3,no,directmail,6,6 to 9,2983768786,60266,+91 2983 768786,1,12000470,1
+0,1,42,7876,unknown,0,17,yes,no,university.degree,services,Medium Earner,36,262,divorced,0,3,unknown,email,8,3 to 6,083-44109004,60267,83 44109004,1,12000471,2
+0,0,61,7641,no,0,18,no,no,high.school,admin.,High Earner,46,508,married,0,4,no,email,5,6 to 9,9526174795,60268,95 26174795,4,12000472,1
+0,0,54,6061,no,0,16,no,no,unknown,technician,Medium Earner,45,222,married,221000,2,yes,email,4,6 to 9,908185461,60269,90 8185461,1,12000473,1
+0,0,54,2976,no,0,18,no,no,professional.course,unemployed,Low Earner,51,200,married,411000,2,yes,directmail,2,6 to 9,+91 605 5383242,60270,+91 60 5 5383242,2,12000474,1
+0,1,58,2677,no,0,19,yes,no,university.degree,unemployed,Low Earner,34,344,married,454000,1,yes,email,5,6 to 9,01684 153010,60271,1684 153010,2,12000475,0
+0,0,35,15796,no,0,24,no,no,professional.course,admin.,High Earner,22,92,single,151000,1,yes,email,8,3 to 6,027-81958636,60272,27 81958636,3,12000476,1
+1,1,67,1096,no,0,20,yes,no,professional.course,housewife,Low Earner,24,655,divorced,476000,4,yes,email,3,6 to 9,8286447176,60732,67 05339662,2,12000477,1
+0,1,35,3229,no,0,18,yes,no,basic.4y,technician,Medium Earner,26,363,divorced,0,5,no,mobile,4,3 to 6,+91 805 9980496,60274,+91 80 5 9980496,1,12000478,1
+0,1,35,7955,no,0,23,yes,no,basic.4y,technician,Medium Earner,30,385,divorced,129000,2,yes,directmail,10,3 to 6,+91 585 5741930,60275,+91 585 5 741930,3,12000479,0
+0,1,38,6380,no,0,21,yes,no,university.degree,housewife,Low Earner,18,403,divorced,0,2,no,email,9,3 to 6,7875316980,60276,43 83023517,2,12000480,1
+0,0,16,7003,no,0,12,no,no,high.school,services,Medium Earner,13,154,married,277000,2,yes,email,4,6 to 9,+91 080 3239661,60277,+91 80 3239661,5,12000481,1
+0,0,34,10013,no,0,15,no,yes,unknown,student,Medium Earner,49,180,single,141000,3,yes,directmail,5,3 to 6,+91 8075652133,60278,+91 80 75652133,1,12000482,2
+0,0,17,6422,yes,46000,16,no,no,high.school,housewife,Low Earner,19,360,divorced,430000,1,yes,email,2,3 to 6,+91 792 9962166,60279,+91 79 2 9962166,1,12000483,1
+0,0,64,3675,no,0,16,no,no,professional.course,retired,Low Earner,31,151,divorced,445000,2,yes,email,6,6 to 9,+91 954 4498563,60280,+91 95 4 4498563,3,12000484,0
+0,0,29,640,no,0,20,no,no,basic.4y,unemployed,Low Earner,33,112,single,216000,4,yes,email,6,3 to 6,7875316987,60281,31 95909319,1,12000485,1
+1,1,25,37148,no,0,13,yes,no,basic.4y,blue-collar,High Earner,2,1681,single,461000,1,yes,directmail,3,0-3,8286447177,51368,8286447178,1,6001366,0
+1,1,66,31398,no,0,24,yes,no,professional.course,management,High Earner,11,709,married,113000,5,yes,email,11,6 to 9,8286447178,60273,8286447178,2,6001367,2
